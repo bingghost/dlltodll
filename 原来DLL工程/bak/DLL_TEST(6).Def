@@ -1,0 +1,4 @@
+EXPORTS 
+AddTest   @1            
+SubTest   @4   
+MulTest   NONAME
